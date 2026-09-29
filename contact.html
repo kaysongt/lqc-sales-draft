@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex">
+  <title>Contact — Latin Quarter Collective</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+</head>
+<body>
+  <p><a id="back" href="./">Latin Quarter Collective — Partner With Us</a></p>
+  <script>
+    (function () {
+      var path = location.pathname.replace(/(?:contact\.html|partner\.html|contact|partner)\/?$/, "");
+      if (!path.endsWith("/")) path += "/";
+      var dest = path + "#contact";
+      var link = document.getElementById("back");
+      if (link) link.href = dest;
+      location.replace(dest);
+    })();
+  </script>
+</body>
+</html>
