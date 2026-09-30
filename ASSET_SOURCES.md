@@ -12,3 +12,5 @@ Images are resized/compressed copies of existing public portfolio assets for cli
 Fonts: Barlow and Barlow Condensed, self-hosted from Google Fonts under the accompanying Open Font Licenses.
 
 Public copy follows the existing public portfolio's services and selected projects. Expanded case-study content requires client approval. The preview does not deliver inquiries or claim that it does. No tracking is installed.
+
+- dinner.webp: Latin Quarter dinner at The Mexican, Dallas; photo from https://latinquartercollective.com/about.
